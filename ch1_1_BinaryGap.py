@@ -16,6 +16,10 @@ def solution(N):
         elif current_gap > max_gap:
             max_gap = current_gap
             current_gap = 0
+        elif current_gap < max_gap:
+            current_gap = 0
+        elif current_gap == max_gap:
+            current_gap = 0
         N //=2
 
     # here's the result!
