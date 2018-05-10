@@ -20,6 +20,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="ch1_1_BinaryGap.py" />
+    <Compile Include="ch2_1_CyclicRotation.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="test_ch2_1_CyclicRotation.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="test_ch1_1_BinaryGap.py">
       <SubType>Code</SubType>
     </Compile>
