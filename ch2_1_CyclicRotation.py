@@ -1,15 +1,15 @@
-def solution(A, K):
+def solution(A,K):
     
     N = len(A)
     B = [0] * N 
 
     for i in range (0,K):
         for j in range (0,N):
-            if j < N-1:
-                m = j+1
-                B[m] = A[j]
+            if j == 0:
+                m = N-1
             else:
-                m = N - j - 1
-                B[j] = A[m]
-            return B
+                m = j-1
+            B[j] = A[m]
+        A = B[:]
+    return B
 
