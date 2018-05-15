@@ -11,5 +11,5 @@ def solution(A,K):
                 m = j-1
             B[j] = A[m]
         A = B[:]
-    return B
+    return A
 
