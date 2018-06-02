@@ -23,7 +23,7 @@ class my_tests(unittest.TestCase):
                           -999, -800, -700, -600, -500, -400, -300, -200, 
                           -100, 0])
 
-class coorectness_tests(unittest.TestCase):
+class correctness_tests(unittest.TestCase):
     def test_extreme_empty(self):
         # empty array
         self.assertEqual(solution([], 0), [])
