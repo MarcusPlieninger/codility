@@ -2,7 +2,7 @@
 [coding lessons](https://app.codility.com/programmers/)
 
 | Ch | Ex |
-|---------|----------|-----------|-----------|-----------|
+|---------|----------|
 |1|[Binary Gap](https://app.codility.com/demo/results/training6J46KE-KW6/)|
 |2|[Cyclic Rotation](https://app.codility.com/demo/results/trainingHUP8ZK-WAC/)|
 ||[Odd Occurences in Array](https://app.codility.com/demo/results/trainingJ8E55V-JGU/)|
