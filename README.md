@@ -1,7 +1,7 @@
 # codility
 [coding lessons](https://app.codility.com/programmers/)
 
-| Ch | Ex | 0 | 1 | 2 |
+| Ch | Ex |
 |---------|----------|-----------|-----------|-----------|
 |1|[Binary Gap](https://app.codility.com/demo/results/training6J46KE-KW6/)|
 |2|[Cyclic Rotation](https://app.codility.com/demo/results/trainingHUP8ZK-WAC/)|
