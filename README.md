@@ -10,7 +10,7 @@
 ||[PermMissingElem](https://app.codility.com/demo/results/trainingCGS6KH-R8P/)
 ||[TapeEquilibrium](https://app.codility.com/demo/results/trainingJNGDBF-RNQ/)|
 |4|[FrogRiverOne](https://app.codility.com/demo/results/trainingAGWENJ-8KH/)|
-||MissingInteger
+||[MissingInteger](https://app.codility.com/demo/results/trainingFWWPG9-6C4/)|
 ||PermCheck
 ||MaxCounters
 
