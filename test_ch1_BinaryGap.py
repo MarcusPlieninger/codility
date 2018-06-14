@@ -1,5 +1,5 @@
 import unittest
-from ch1_1_BinaryGap import solution
+from 1_BinaryGap import solution
 
 class example_tests(unittest.TestCase):
     def test_example1(self):

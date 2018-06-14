@@ -1,5 +1,5 @@
 import unittest
-from ch2_1_CyclicRotation import solution
+from 2_CyclicRotation import solution
 
 class example_tests(unittest.TestCase):
     def test_example1(self):
@@ -9,7 +9,7 @@ class example_tests(unittest.TestCase):
         self.assertEqual(solution([1, 2, 3, 4], 4), [1, 2, 3, 4])
     
     def test_example3(self):
-        self.assertEqual(soluation([0, 0, 0], 1), [0, 0, 0])
+        self.assertEqual(solution([0, 0, 0], 1), [0, 0, 0])
 
 class my_tests(unittest.TestCase):
     def test_small(self):
