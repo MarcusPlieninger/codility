@@ -1,5 +1,5 @@
 import unittest
-from 2_CyclicRotation import solution
+from ch2_CyclicRotation import solution
 
 class example_tests(unittest.TestCase):
     def test_example1(self):
