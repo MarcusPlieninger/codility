@@ -61,7 +61,7 @@ class correctness_tests(unittest.TestCase):
     def test_large5(self):
         self.assertEqual(solution(1073741825), 29)
 
-    def test_large5(self):
+    def test_large6(self):
         self.assertEqual(solution(1610612737), 28)      
 
 if __name__ == '__main__':
