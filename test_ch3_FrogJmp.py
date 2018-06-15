@@ -13,7 +13,7 @@ class correctness_tests(unittest.TestCase):
         X = 1
         Y = 3
         D = 1
-        self.assertEqual(solution(X, Y, D), 3)       
+        self.assertEqual(solution(X, Y, D), 2)       
 
     def test_simple2(self):
         X = 20
@@ -31,7 +31,7 @@ class correctness_tests(unittest.TestCase):
         X = 1
         Y = 6000
         D = 7000
-        self.assertEqual(solution(X, Y, D), 3)
+        self.assertEqual(solution(X, Y, D), 1)
 
 class performance_tests(unittest.TestCase):
     def test_many_jump1 (self): # many jumps, D = 2
@@ -48,7 +48,7 @@ class performance_tests(unittest.TestCase):
 
     def test_many_jump3(self): # many jumps, D = 1283
         X = 10
-        Y = 85
+        Y = 999999999
         D = 1283
         self.assertEqual(solution(X, Y, D), 3)
 
