@@ -1,4 +1,3 @@
-
 def solution(N):
 
     # set up variables to store
