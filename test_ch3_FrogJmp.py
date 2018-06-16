@@ -38,25 +38,25 @@ class performance_tests(unittest.TestCase):
         X = 1
         Y = 9999990000
         D = 2
-        self.assertEqual(solution(X, Y, D), 499999500)
+        self.assertEqual(solution(X, Y, D), 4999995000)
 
     def test_many_jump2(self):  # many jumps, D = 99
-        X = 10
-        Y = 85
+        X = 500000
+        Y = 9327146785
         D = 99
-        self.assertEqual(solution(X, Y, D), 3)  
+        self.assertEqual(solution(X, Y, D), 94208554)  
 
     def test_many_jump3(self): # many jumps, D = 1283
         X = 10
         Y = 999999999
         D = 1283
-        self.assertEqual(solution(X, Y, D), 3)
+        self.assertEqual(solution(X, Y, D), 779424)
 
     def test_big_extreme_jump_jump(self): # maximal number of jumps
         X = 1
-        Y = 999999999999
+        Y = 999999999
         D = 30
-        self.assertEqual(solution(X, Y, D), 999999999999)
+        self.assertEqual(solution(X, Y, D), 33333334)
 
     def test_small_jumps (self): # many small jumps
         X = 1
