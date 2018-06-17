@@ -23,9 +23,15 @@ class correctness_tests(unittest.TestCase):
     
     def test_mediumrangelargedivisor(self):
         A = 1
-        B = 20
+        B = 12
         K = 13
         self.assertEqual(solution(A, B, K), 0, msg= "medium range, no divisible integers")
+
+    def extrem_ifempty(self):
+        A = 10
+        B = 10
+        K = 5
+        self.assertEqual(solution(A, B, K), 1, msg= "extreme, empty")
 
 if __name__ == '__main__':
     unittest.main()
