@@ -1,3 +1,5 @@
+# note: time complexity here is O(N * M), not O(N + M)
+
 def solution(S, P, Q):
     n = len(P)
 
@@ -19,6 +21,6 @@ def solution(S, P, Q):
         if P[i] == Q[i]:
             result.append(impactfactor[P[i]])
         else:
-            result.append(min(impactfactor[P[i]:Q[i]]))
+            result.append(min(impactfactor[P[i]:Q[i]+1]))
 
     return result
