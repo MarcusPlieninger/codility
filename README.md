@@ -15,7 +15,7 @@
 |||MaxCounters|O(N+M)|O(N)|[lazy](https://app.codility.com/demo/results/training34SJ6F-V5T/)|||
 |5|**Prefix Sums**|CountDiv|O(1)|O(1)|[math trick](https://app.codility.com/demo/results/trainingZRQ27T-URT/)|||
 |||PassingCars|O(N)|O(1)|[solution](https://app.codility.com/demo/results/trainingUKMM5F-2Y6/)|||
-|||GenomicRangeQuery|O(N+M)|O(N)|[65%](https://app.codility.com/demo/results/trainingWYDVHT-5P6/)|||
+|||GenomicRangeQuery|O(N+M)|O(N)|[solution](https://app.codility.com/demo/results/trainingNYS266-KG8/)|||
 |||MinAvgTwoSlice|||
 
 *not counting the storage required for input arguments
