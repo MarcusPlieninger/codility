@@ -31,7 +31,6 @@ def solution(S, P, Q):
             C = twos[Q[i]] - twos[P[i]-1]
             G = threes[Q[i]] - threes[P[i]-1]
             T = fours[Q[i]] - fours[P[i]-1]
-
         if A > 0:
             result.append(1)    
         elif C > 0:
