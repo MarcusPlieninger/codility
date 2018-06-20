@@ -1,0 +1,10 @@
+import unittest
+from ch5_MinAvgTwoSlice import solution
+
+class example_tests(unittest.TestCase):
+    def test_example1(self):
+        A = [4, 2, 2, 5, 1, 5, 8]
+        self.assertEqual(solution(A), 1, msg= "example test")
+
+if __name__ == '__main__':
+    unittest.main()
