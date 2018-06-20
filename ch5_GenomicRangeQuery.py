@@ -1,26 +1,44 @@
-# note: time complexity here is O(N * M), not O(N + M)
-
 def solution(S, P, Q):
-    n = len(P)
+    ones = []
+    twos = []
+    threes = []
+    fours = []
+    sumOnes = sumTwos = sumThrees = sumFours = 0
 
-    S = list(S)
-    impactfactor = []
     for nucleotide in S:
         if nucleotide == "A":
-             impactfactor.append(1)
-        elif nucleotide == "C":
-             impactfactor.append(2)
-        elif nucleotide == "G":
-             impactfactor.append(3)
-        elif nucleotide == "T":
-             impactfactor.append(4)
+            sumOnes +=1
+        if nucleotide == "C":
+            sumTwos +=1
+        if nucleotide == "G":
+            sumThrees +=1
+        if nucleotide == "T":
+            sumFours +=1
+        ones.append(sumOnes)
+        twos.append(sumTwos)
+        threes.append(sumThrees)
+        fours.append(sumFours)
 
     result = []
-
-    for i in range (0, n):
-        if P[i] == Q[i]:
-            result.append(impactfactor[P[i]])
+    for i in range(len(P)):
+        if P[i] == 0:
+            A = ones[Q[i]]
+            C = twos[Q[i]]
+            G = threes[Q[i]]
+            T = fours[Q[i]]
         else:
-            result.append(min(impactfactor[P[i]:Q[i]+1]))
+            A = ones[Q[i]] - ones[P[i]-1]
+            C = twos[Q[i]] - twos[P[i]-1]
+            G = threes[Q[i]] - threes[P[i]-1]
+            T = fours[Q[i]] - fours[P[i]-1]
 
+        if A > 0:
+            result.append(1)    
+        elif C > 0:
+            result.append(2)
+        elif G > 0:
+            result.append(3)
+        else:
+            result.append(4)
+            
     return result
