@@ -16,7 +16,7 @@
 |5|**Prefix Sums**|CountDiv|O(1)|O(1)|[math trick](https://app.codility.com/demo/results/trainingZRQ27T-URT/)|||
 |||PassingCars|O(N)|O(1)|[solution](https://app.codility.com/demo/results/trainingUKMM5F-2Y6/)|||
 |||GenomicRangeQuery|O(N+M)|O(N)|[solution](https://app.codility.com/demo/results/trainingNYS266-KG8/)|||
-|||MinAvgTwoSlice|||
+|||MinAvgTwoSlice|O(N)|O(N)|[solution](https://app.codility.com/demo/results/trainingYUG3V9-UUC/)|||
 
 *not counting the storage required for input arguments
 
