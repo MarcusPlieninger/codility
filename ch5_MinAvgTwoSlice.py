@@ -15,7 +15,3 @@ def solution(A):
             smalleststartingposition = i-2
             
     return smalleststartingposition
-<<<<<<< HEAD
-    
-=======
->>>>>>> ab57c73b9b78a803094f6de46bf486f6cbdac636
