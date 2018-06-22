@@ -17,6 +17,10 @@
 |||PassingCars|O(N)|O(1)|[solution](https://app.codility.com/demo/results/trainingUKMM5F-2Y6/)|||
 |||GenomicRangeQuery|O(N+M)|O(N)|[solution](https://app.codility.com/demo/results/trainingNYS266-KG8/)|||
 |||MinAvgTwoSlice|O(N)|O(N)|[solution](https://app.codility.com/demo/results/trainingYUG3V9-UUC/)|||
+|6|**Sorting**|MaxProductofThree|
+|||Distinct|
+|||Triangle|
+|||NumberOfDiscInterscetions|
 
 *not counting the storage required for input arguments
 
