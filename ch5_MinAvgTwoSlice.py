@@ -1,4 +1,5 @@
 def solution(A):
+    
     smalleststartingposition = 0
     minimalavg = (A[0] + A[1]) / 2
     
