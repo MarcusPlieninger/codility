@@ -17,7 +17,7 @@
 |||PassingCars|O(N)|O(1)|[solution](https://app.codility.com/demo/results/trainingUKMM5F-2Y6/)|||
 |||GenomicRangeQuery|O(N+M)|O(N)|[solution](https://app.codility.com/demo/results/trainingNYS266-KG8/)|||
 |||MinAvgTwoSlice|O(N)|O(N)|[solution](https://app.codility.com/demo/results/trainingYUG3V9-UUC/)|||
-|6|**Sorting**|MaxProductofThree|
+|6|**Sorting**|MaxProductOfThree|O(N*log(N))|O(1)|[33%](https://app.codility.com/demo/results/trainingVM4P55-WKB/)||
 |||Distinct|
 |||Triangle|
 |||NumberOfDiscInterscetions|
