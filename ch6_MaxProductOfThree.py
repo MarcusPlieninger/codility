@@ -27,7 +27,6 @@ def solution(A):
                 A[iA] = A2[iA2]
                 iA2 += 1
             iA +=1
-
         # copy any remaining items from A1
         while iA1 < n1:
             A[iA] = A1[iA1]
