@@ -50,28 +50,17 @@ required for input arguments).
 '''
 import unittest
 from ch6_MaxProductOfThree import solution
-import random
 
 class exampletests (unittest.TestCase):
     def test_example1(self):
         A = [-3, 1, 2, -2, 5, 6]
         self.assertEqual(solution(A), 60, msg="example test")
 
-class performance_tests(unittest.Testcase):
+class performance_tests(unittest.TestCase):
 
-    def medium_range(self):
+    def test_medium_range(self):
         A = [x + 1 for x in range(-1001, 1000)]
         self.assertEqual(solution(A), 999000000)
-    def medium_random(self):
-
-    def large_random(self):
-        A = random.sample(range(-1001, 1000), 100000)
-        A = 
-
-    def large_range(self):
-
-    def extreme_large(self):
-
 
 if __name__ == 'main':
     unittest.main()
