@@ -59,7 +59,7 @@ class exampletests (unittest.TestCase):
 class performance_tests(unittest.TestCase):
 
     def test_medium_range(self):
-        A = [x + 1 for x in range(-1001, 1000)]
+        A = [x + 1 for x in range(-1000, 1000)]
         self.assertEqual(solution(A), 999000000)
 
 if __name__ == 'main':
