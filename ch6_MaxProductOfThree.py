@@ -38,7 +38,5 @@ def solution(A):
             iA2 += 1
             iA += 1
 
-    # max product
     A = mergeSort(A)
-    product = A[-1] * A[-2] * A[-3]
-    return product
+    return max(A[0] * A[1] * A[-1], A[-1] * A[-2] * A[-3])
