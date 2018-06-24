@@ -57,7 +57,7 @@ class exampletests (unittest.TestCase):
         self.assertEqual(solution(A), 60, msg="example test")
 
 class performance_tests(unittest.TestCase):
-
+# how do I randomize this?
     def test_medium_range(self):
         A = [x + 1 for x in range(-1000, 1000)]
         self.assertEqual(solution(A), 999000000)
