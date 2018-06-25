@@ -18,7 +18,7 @@
 |||GenomicRangeQuery|O(N+M)|O(N)|[solution](https://app.codility.com/demo/results/trainingNYS266-KG8/)|||
 |||MinAvgTwoSlice|O(N)|O(N)|[solution](https://app.codility.com/demo/results/trainingYUG3V9-UUC/)|||
 |6|**Sorting**|MaxProductOfThree|O(N*log(N))|O(1)|[77%](https://app.codility.com/demo/results/trainingUUHWHC-FQE/)|[sorted()](https://app.codility.com/demo/results/trainingWDU3SP-SEM/)|
-|||Distinct|
+|||Distinct|O(N*log(N))|O(N)|[sorted()](https://app.codility.com/demo/results/training8P3PBA-69Z/)|
 |||Triangle|
 |||NumberOfDiscInterscetions|
 
