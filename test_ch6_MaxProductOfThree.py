@@ -49,7 +49,7 @@ required for input arguments).
 
 '''
 import unittest
-from ch6_MaxProductOfThree import solution
+from ch6_MaxProductOfThree_sorted() import solution
 
 class exampletests (unittest.TestCase):
     def test_example1(self):
