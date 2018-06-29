@@ -21,6 +21,10 @@
 |||Distinct|O(N*log(N))|O(N)|[sorted()](https://app.codility.com/demo/results/training8P3PBA-69Z/)|
 |||Triangle|O(N*log(N))|O(N)|[sorted()](https://app.codility.com/demo/results/trainingKCVEKU-B92/)|
 |||NumberOfDiscIntersections|O(N*log(N))|O(N)|[solution](https://app.codility.com/demo/results/trainingXFGP8X-329/)|
+|7|**Stacks & Queues**|Nesting|||
+|||Brackets|||
+|||Fish|||
+|||StoneWall|||
 
 *not counting the storage required for input arguments
 
