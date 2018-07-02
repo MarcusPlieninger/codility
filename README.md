@@ -21,7 +21,7 @@
 |||Distinct|O(N*log(N))|O(N)|[sorted()](https://app.codility.com/demo/results/training8P3PBA-69Z/)|
 |||Triangle|O(N*log(N))|O(N)|[sorted()](https://app.codility.com/demo/results/trainingKCVEKU-B92/)|
 |||NumberOfDiscIntersections|O(N*log(N))|O(N)|[solution](https://app.codility.com/demo/results/trainingXFGP8X-329/)|
-|7|**Stacks & Queues**|Nesting|||
+|7|**Stacks & Queues**|Nesting|O(N)|O(1)|[solution](https://app.codility.com/demo/results/trainingJRV8AB-PHE/)|
 |||Brackets|||
 |||Fish|||
 |||StoneWall|||
