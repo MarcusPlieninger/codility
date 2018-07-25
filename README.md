@@ -23,7 +23,7 @@
 |||NumberOfDiscIntersections|O(N*log(N))|O(N)|[solution](https://app.codility.com/demo/results/trainingXFGP8X-329/)|
 |7|**Stacks & Queues**|Nesting|O(N)|O(1)|[solution](https://app.codility.com/demo/results/trainingJRV8AB-PHE/)|
 |||Brackets|O(N)|O(N)|[solution](https://app.codility.com/demo/results/trainingBVST7R-DQ7/)|
-|||Fish|||
+|||Fish|O(N)|O(N)|[stack pop()](https://app.codility.com/demo/results/trainingK3S8FT-24W/)|
 |||StoneWall|||
 
 *not counting the storage required for input arguments
