@@ -24,7 +24,7 @@
 |7|**Stacks & Queues**|Nesting|O(N)|O(1)|[solution](https://app.codility.com/demo/results/trainingJRV8AB-PHE/)|
 |||Brackets|O(N)|O(N)|[solution](https://app.codility.com/demo/results/trainingBVST7R-DQ7/)|
 |||Fish|O(N)|O(N)|[stack pop()](https://app.codility.com/demo/results/trainingK3S8FT-24W/)|
-|||StoneWall|||
+|||StoneWall|O(N)|O(N)|[stack pop()](https://app.codility.com/demo/results/training8GZH8T-525/)|
 
 *not counting the storage required for input arguments
 
