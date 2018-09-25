@@ -25,7 +25,7 @@
 |||Brackets|O(N)|O(N)|[solution](https://app.codility.com/demo/results/trainingBVST7R-DQ7/)|
 |||Fish|O(N)|O(N)|[stack pop()](https://app.codility.com/demo/results/trainingK3S8FT-24W/)|
 |||StoneWall|O(N)|O(N)|[stack pop()](https://app.codility.com/demo/results/training8GZH8T-525/)|
-|8|[**Leader**](https://codility.com/media/train/6-Leader.pdf)|Dominator|"efficient"|"efficient"|[83%](https://app.codility.com/demo/results/trainingSNTNRP-NG9/?showingAll=1)|[91%](https://app.codility.com/demo/results/training2PVMRU-CY7/?showingAll=1)|[throwaway stackO(N)](https://app.codility.com/demo/results/trainingQFTWZJ-JMW/)|
+|8|[**Leader**](https://codility.com/media/train/6-Leader.pdf)|Dominator|"efficient"|"efficient"|[83%](https://app.codility.com/demo/results/trainingSNTNRP-NG9/?showingAll=1)|[91%](https://app.codility.com/demo/results/training2PVMRU-CY7/?showingAll=1)|[stack O(N)](https://app.codility.com/demo/results/trainingQFTWZJ-JMW/)|
 |||EquiLeader|"efficient"|"efficient"||||
 
 *not counting the storage required for input arguments
