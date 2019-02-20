@@ -27,7 +27,7 @@
 |||StoneWall|O(N)|O(N)|[stack pop()](https://app.codility.com/demo/results/training8GZH8T-525/)|
 |8|[**Leader**](https://codility.com/media/train/6-Leader.pdf)|Dominator|"efficient"|"efficient"|[83%](https://app.codility.com/demo/results/trainingSNTNRP-NG9/?showingAll=1)|[91%](https://app.codility.com/demo/results/training2PVMRU-CY7/?showingAll=1)|[stack](https://app.codility.com/demo/results/trainingQFTWZJ-JMW/)|
 |||EquiLeader|"efficient"|"efficient"|[55%](https://app.codility.com/demo/results/trainingUD99WK-MT4/)|[counts](https://app.codility.com/demo/results/trainingPDVWY2-BBJ/)|||
-|9|[**Max Slice**](https://codility.com/media/train/7-MaxSlice.pdf)|MaxSliceSum||||||
+|9|[**Max Slice**](https://codility.com/media/train/7-MaxSlice.pdf)|MaxSliceSum|"efficient"|"efficient"|[53%](https://app.codility.com/demo/results/trainingCPZXQ6-S7C/)|||
 |||MaxProfit||||||
 |||MaxDoubleSliceSum||||||
 
