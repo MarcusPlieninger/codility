@@ -29,7 +29,22 @@
 |||EquiLeader|"efficient"|"efficient"|[55%](https://app.codility.com/demo/results/trainingUD99WK-MT4/)|[counts](https://app.codility.com/demo/results/trainingPDVWY2-BBJ/)|||
 |9|[**Max Slice**](https://codility.com/media/train/7-MaxSlice.pdf)|MaxProfit|"efficient"|"efficient"|[88%](https://app.codility.com/demo/results/trainingF8926C-Z86/)|[100%](https://app.codility.com/demo/results/trainingA23JUN-2VT/)|
 |||MaxSliceSum|"efficient"|"efficient"|[53%](https://app.codility.com/demo/results/trainingCPZXQ6-S7C/)|[100%](https://app.codility.com/demo/results/trainingQM3AP4-J43/)||
-|||MaxDoubleSliceSum|"efficient"|"efficient"|[modified Kadane's Algorithm](https://app.codility.com/demo/results/training6KQ5YK-2R7/)|||||
+|||MaxDoubleSliceSum|"efficient"|"efficient"|[modified Kadane's Algorithm](https://app.codility.com/demo/results/training6KQ5YK-2R7/)|||
+|10|[**Prime & Composite Numbers**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/)|CountFactors|||||||
+|||MinPerimeterRectangle||||||
+|||Peaks||||||
+|||Flags||||||
+|11|title|ex|t|s|s1|s2|s3|
+|12|title|ex|t|s|s1|s2|s3|
+|13|title|ex|t|s|s1|s2|s3|
+|14|title|ex|t|s|s1|s2|s3|
+|15|title|ex|t|s|s1|s2|s3|
+|16|title|ex|t|s|s1|s2|s3|
+|17|title|ex|t|s|s1|s2|s3|
+|90|title|ex|t|s|s1|s2|s3|
+|91|title|ex|t|s|s1|s2|s3|
+|92|title|ex|t|s|s1|s2|s3|
+|99|title|ex|t|s|s1|s2|s3|
 
 *not counting the storage required for input arguments
 
