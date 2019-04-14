@@ -29,7 +29,7 @@
 |||EquiLeader|"efficient"|"efficient"|[55%](https://app.codility.com/demo/results/trainingUD99WK-MT4/)|[counts](https://app.codility.com/demo/results/trainingPDVWY2-BBJ/)|||
 |9|[**Max Slice**](https://codility.com/media/train/7-MaxSlice.pdf)|MaxProfit|"efficient"|"efficient"|[88%](https://app.codility.com/demo/results/trainingF8926C-Z86/)|[100%](https://app.codility.com/demo/results/trainingA23JUN-2VT/)|
 |||MaxSliceSum|"efficient"|"efficient"|[53%](https://app.codility.com/demo/results/trainingCPZXQ6-S7C/)|[100%](https://app.codility.com/demo/results/trainingQM3AP4-J43/)||
-|||MaxDoubleSliceSum|[modified Kadane's Algorithm](https://app.codility.com/demo/results/training6KQ5YK-2R7/)|||||
+|||MaxDoubleSliceSum|"efficient"|"efficient"[modified Kadane's Algorithm](https://app.codility.com/demo/results/training6KQ5YK-2R7/)|||||
 
 *not counting the storage required for input arguments
 
