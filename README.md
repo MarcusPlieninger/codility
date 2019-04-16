@@ -30,7 +30,7 @@
 |9|[**Max Slice**](https://codility.com/media/train/7-MaxSlice.pdf)|MaxProfit|"efficient"|"efficient"|[88%](https://app.codility.com/demo/results/trainingF8926C-Z86/)|[100%](https://app.codility.com/demo/results/trainingA23JUN-2VT/)|
 |||MaxSliceSum|"efficient"|"efficient"|[53%](https://app.codility.com/demo/results/trainingCPZXQ6-S7C/)|[100%](https://app.codility.com/demo/results/trainingQM3AP4-J43/)||
 |||MaxDoubleSliceSum|"efficient"|"efficient"|[modified Kadane's Algorithm](https://app.codility.com/demo/results/training6KQ5YK-2R7/)|||
-|10|[**Prime & Composite Numbers**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/)|CountFactors|||||||
+|10|[**Prime & Composite Numbers**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/)|CountFactors|"efficient"|"efficient"|[100% (O(sqrt(N))](https://app.codility.com/demo/results/trainingCZESAT-E4A/)||||
 |||MinPerimeterRectangle||||||
 |||Peaks||||||
 |||Flags||||||
