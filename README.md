@@ -32,7 +32,7 @@
 |||MaxDoubleSliceSum|"efficient"|"efficient"|[modified Kadane's Algorithm](https://app.codility.com/demo/results/training6KQ5YK-2R7/)|||
 |10|[**Prime & Composite Numbers**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/)|CountFactors|"efficient"|"efficient"|[100% (O(sqrt(N))](https://app.codility.com/demo/results/trainingCZESAT-E4A/)||||
 |||MinPerimeterRectangle|"efficient"|"efficient"|[100% (O(sqrt(N))](https://app.codility.com/demo/results/trainingX8P4ZS-V7Q/)|||
-|||Peaks||||||
+|||Peaks|"efficient"|"efficient"|[100% O(N*log(log(N)))](https://app.codility.com/demo/results/trainingQGZYF2-48X/)|||
 |||Flags||||||
 |11|title|ex|t|s|s1|s2|s3|
 |12|title|ex|t|s|s1|s2|s3|
